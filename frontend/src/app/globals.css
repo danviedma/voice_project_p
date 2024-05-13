@@ -13,5 +13,11 @@ body, *{
 
 }
 
+.footer-background {
+    background-image: url('/images/footer3.jpg');
+    background-size: cover;
+    background-position: center;
+  }
+
 
 
