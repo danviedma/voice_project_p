@@ -1,4 +1,4 @@
-// File: C:\Users\HP\Documents\ProyectoPili\voice_project_p\frontend\src\app\about\page.jsx
+// File: /home/alejandro/Documentos/ProyectoPilar/voice_project_p/frontend/src/app/about/page.jsx
 import * as entry from '../../../../src/app/about/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
